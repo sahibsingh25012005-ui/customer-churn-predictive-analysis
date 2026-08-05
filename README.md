@@ -278,13 +278,13 @@ Telecom-Customer-Churn/
 
 ## Customer Churn Overview
 
-(https://github.com/sahibsingh25012005-ui/customer-churn-predictive-analysis/blob/main/Images/Customer%20Churn%20Overview.png)
+(![Customer Churn Overview]https://github.com/sahibsingh25012005-ui/customer-churn-predictive-analysis/blob/main/Images/Customer%20Churn%20Overview.png)
 
 ---
 
 ## Churn Prediction Dashboard
 
-(Add Screenshot Here)
+(![Customer Churn Predictions](https://github.com/sahibsingh25012005-ui/customer-churn-predictive-analysis/blob/main/Images/Customer%20Churn%20Predictions.png))
 
 ---
 
