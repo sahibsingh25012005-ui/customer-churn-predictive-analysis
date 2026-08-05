@@ -278,7 +278,7 @@ Telecom-Customer-Churn/
 
 ## Customer Churn Overview
 
-(Add Screenshot Here)
+(https://github.com/sahibsingh25012005-ui/customer-churn-predictive-analysis/blob/main/Images/Customer%20Churn%20Overview.png)
 
 ---
 
